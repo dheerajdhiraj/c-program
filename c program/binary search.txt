@@ -1,5 +1,6 @@
 Write a C program to find the position of a target value within a sorted array using binary search.
 Note: Binary Search : In computer science, a binary search or half-interval search algorithm finds the position of a target value within a sorted array. The binary search algorithm can be classified as a dichotomies divide-and-conquer search algorithm and executes in logarithmic time.
+//---------------------------------------------------------------------------------------------------------------------------------
 Given a sorted array arra[] of n elements, write a function to search a given element x in arra[].
 #include<stdio.h>
   void main()
